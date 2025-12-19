@@ -1,0 +1,1 @@
+print("My result is 100%")
