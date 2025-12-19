@@ -1,4 +1,4 @@
-<h2>Python Syntax</h2>
+<h2>Python Syntax, Variable & Data Types</h2>
 
 <h4>Syntax</h4>
 <p>
