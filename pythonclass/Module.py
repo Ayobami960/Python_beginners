@@ -7,6 +7,7 @@
 # print(age)
 # print(is_number)
 
-greeting = "welcome to GoldBytes"
-print(greeting)
-print(type(greeting))
+
+# greeting = "welcome to GoldBytes"
+# print(greeting)
+# print(type(greeting))

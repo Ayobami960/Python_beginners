@@ -38,7 +38,14 @@ print(is_number)
 </ul>
 
 <detail>
-<h5>
-Str: a string is a sequence of characters wrapped in either single or double quote marks
-</h5>
+<h5>Str</h5>
+<p>a string is a sequence of characters wrapped in either single or double quote marks</p>
+
+<h5>Number Type</h5>
+<p>int: an integer is a whole number without decimals 
+float: a float is a number containing one or more decimals
+complex: a complex number has both real and imgi
+</p>
+
+
 </detail>
