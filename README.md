@@ -1,8 +1,8 @@
 <h2>Python Syntax, Variable & Data Types</h2>
 
-<h4>Syntax</h4>
+<h4>Python Syntax</h4>
 <p>
-Syntax is the set of rules that define how to write code in a programming language.
+Python Syntax is the set of rules that define how to write code in a programming language.
 </p>
 
 <h4>Variables</h4>
@@ -10,7 +10,7 @@ Syntax is the set of rules that define how to write code in a programming langua
 A variable is a label for storing information. You can reference variables to retrieve or update the stored information.
 </p>
 
-<h3>Naming Variables</h3>
+<h4>Naming Variables</h4>
 <ul>
   <li>Can only contain letters, numbers, and underscores</li>
   <li>Cannot start with a number</li>
@@ -29,7 +29,7 @@ print(age)
 print(is_number)
 </code></pre>
 
-<h4>Data Types</h4>
+<h4>Data Types and exmaple of python</h4>
 <ul>
   <li>Text Type: <b>str</b></li>
   <li>Numeric Type: <b>int, float, complex</b></li>
@@ -51,3 +51,22 @@ A string is a sequence of characters wrapped in either single or double quotatio
 <b>float:</b> A number containing one or more decimal points.<br>
 <b>complex:</b> A number with real and imaginary parts.
 </p>
+
+<h4>Comparison Operators</h4>
+==      Equal
+!=      Not equal
+>       Greater than
+<       Less than
+>=      Greater than or equal to
+<=      Less than or equal to
+
+<h4>Logical Operators</h4>
+and     Returns True if both statements are true
+or      Returns True the result False if the result
+not     Reverse the result, returns False if the result is true
+in      Return True if a sequence with the specified value is present in the object
+not in  Return Trus if a sequence with the specified value is not presnet in the object
+
+
+ice_cream = " i love chocolate ice cream"
+'love' in ice_cream
