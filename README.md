@@ -52,6 +52,7 @@ A string is a sequence of characters wrapped in either single or double quotatio
 <b>complex:</b> A number with real and imaginary parts.
 </p>
 
+
 <h4>Comparison Operators</h4>
 ==      Equal
 !=      Not equal
@@ -68,5 +69,6 @@ in      Return True if a sequence with the specified value is present in the obj
 not in  Return Trus if a sequence with the specified value is not presnet in the object
 
 
-ice_cream = " i love chocolate ice cream"
-'love' in ice_cream
+f → enables formatted strings
+
+{} → places where variables or expressions go
